@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Map3
+  m_EditorClassIdentifier: 
+  m_GroupName: Map3
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c73babe7a1ce7ec46a128d1f6dd74ab5
+  m_SerializeEntries:
+  - m_GUID: 0c837c909f2bbdb468b34d3ef04fb98a
+    m_Address: Assets/Content/Objects/Maps/Map3/New Terrain.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 583ce393288e7464aaf8c320417c9d4a
+    m_Address: Assets/Content/Objects/Maps/Map3/Snow.terrainlayer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 764acdf1960994e418c10a9fe68d2a28
+    m_Address: Assets/Content/Objects/Maps/Map3/TerrainData_0c968e36-047e-4160-bd5a-796bc6e58271.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 059c8ea511efaae47b505aac876b37ed
+    m_Address: Assets/Content/Objects/Maps/Map3/TerrainData_0d9c6ae4-ef77-49b9-8a0f-e35d3d766841.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5091950d97be444abac72899a32c1f0
+    m_Address: Assets/Content/Objects/Maps/Map3/TerrainData_4c5d3142-6934-43ec-b405-5ba1c914bc59.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b6ed7afd861b7644bcb4d7345d72362
+    m_Address: Assets/Content/Objects/Maps/Map3/TerrainData_43c33f04-034c-49a3-a42e-5ecbdfba5c58.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38799710bfe88c442a0f1ed2a793f1dd
+    m_Address: Assets/Content/Objects/Maps/Map3/TerrainData_c93f8fb7-6889-49e2-806a-26acb4e476ea.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52d8bee3e1dfdf8468b9ab57be606ddc
+    m_Address: Assets/Content/Objects/Maps/Map3/TerrainData_d661bb69-7171-41c3-a10a-efa6d914307e.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6023ab1cafeeb0b4a9cf7d9b4126820b
+    m_Address: Assets/Content/Objects/Maps/Map3/TerrainData_eeb0a2ca-d2a9-45b6-8bc6-e33d178b75c1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7d6cb67971f31041b909d7404717c92
+    m_Address: Assets/Content/Objects/Maps/Map3/TerrainData_fb9cdab8-720b-49d2-9440-2ecf650ebdf2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 59feb32289a28f14f95af3b83463000f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 90918226272daca4a94001cd425a5220, type: 2}
+    - {fileID: 11400000, guid: e17c93649240788438b2f0db674c9ad6, type: 2}

@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Base Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Base
+  m_TableCollectionNameGuidString: 26128fe5e3a2cef4a95e842c2696f7d0
+  m_Entries:
+  - m_Id: 42292350976
+    m_Key: missions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49397501952
+    m_Key: mech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124257439744
+    m_Key: modules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135502368768
+    m_Key: market
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4242833281024
+    m_Key: mech_change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636426768384
+    m_Key: mech_equipped
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9292238426112
+    m_Key: storage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11079540412416
+    m_Key: mech_torso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11124541100032
+    m_Key: mech_lefthand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11150243794944
+    m_Key: mech_righthand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11175246041088
+    m_Key: mech_leftleg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11200546082816
+    m_Key: mech_rightleg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17547454976000
+    m_Key: empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24937248198656
+    m_Key: count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25084396965888
+    m_Key: type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25227435315200
+    m_Key: description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25763089879040
+    m_Key: buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25793129484288
+    m_Key: sell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33941093486592
+    m_Key: launch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39714192232448
+    m_Key: system_error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39811906932736
+    m_Key: overheating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39867473072128
+    m_Key: reactor_damaged
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40311729557504
+    m_Key: angar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40423738445824
+    m_Key: loot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41036069081088
+    m_Key: mission_complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41073515827200
+    m_Key: mission_lose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41734395531264
+    m_Key: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41932106633216
+    m_Key: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42121785643008
+    m_Key: exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278230985740288
+    m_Key: options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278266280808448
+    m_Key: quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278302557343744
+    m_Key: mousex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278337416204288
+    m_Key: mousey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278357079101440
+    m_Key: reset
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6882506438057394311
+  references:
+    version: 2
+    RefIds:
+    - rid: 6882506438057394311
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1683404511354

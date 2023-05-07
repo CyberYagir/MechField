@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4972812737291025275
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3295332279731602636}
+  - component: {fileID: 5746292704055116097}
+  m_Layer: 0
+  m_Name: WeaponMachinegun
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3295332279731602636
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4972812737291025275}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -43.984806, y: 15.387269, z: 44.80511}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8981256583526817164}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5746292704055116097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4972812737291025275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2cc4ba6f889f5b4985a9d55fcd1fe2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    weaponName: Autogun
+    type: 1
+    damage: 10
+    maxDistance: 500
+    cooldown: 0.02
+    bulletsCount: 1000
+    heat: 0
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 3081
+  meshRotator: {fileID: 9000992712602652727}
+  bulletsType: 1
+  cannonMesh: {fileID: 8096460171667163627}
+--- !u!1001 &5840048470136542225
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3295332279731602636}
+    m_Modifications:
+    - target: {fileID: 797070634495860774, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_VersionIndex
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3996598792822738149, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1373
+      objectReference: {fileID: 0}
+    - target: {fileID: 5662203462795933794, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1824
+      objectReference: {fileID: 0}
+    - target: {fileID: 7646940189883726994, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+      propertyPath: m_Name
+      value: MachinegunMesh
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+--- !u!4 &8096460171667163627 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2400526926165614074, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+  m_PrefabInstance: {fileID: 5840048470136542225}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8981256583526817164 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3292078978068400541, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+  m_PrefabInstance: {fileID: 5840048470136542225}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &9000992712602652727 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3307320026482263078, guid: 1dd94647823a95c4bb467449879c0f8f, type: 3}
+  m_PrefabInstance: {fileID: 5840048470136542225}
+  m_PrefabAsset: {fileID: 0}

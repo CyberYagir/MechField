@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Base_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 26128fe5e3a2cef4a95e842c2696f7d0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 42292350976
+    m_Localized: Missions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49397501952
+    m_Localized: Mech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124257439744
+    m_Localized: Modules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135502368768
+    m_Localized: Market
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4242833281024
+    m_Localized: Change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636426768384
+    m_Localized: Equipped
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9292238426112
+    m_Localized: Storage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11079540412416
+    m_Localized: Torso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11124541100032
+    m_Localized: Left Hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11150243794944
+    m_Localized: Right Hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11175246041088
+    m_Localized: Left Leg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11200546082816
+    m_Localized: Right Leg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17547454976000
+    m_Localized: Empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24937248198656
+    m_Localized: Amount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25084396965888
+    m_Localized: Type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25227435315200
+    m_Localized: Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25763089879040
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25793129484288
+    m_Localized: Sell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33941093486592
+    m_Localized: Launch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39714192232448
+    m_Localized: SYSTEM ERROR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39811906932736
+    m_Localized: OVERHEATING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39867473072128
+    m_Localized: REACTOR  DAMAGED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40311729557504
+    m_Localized: Angar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40423738445824
+    m_Localized: 'Loot:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41036069081088
+    m_Localized: Mission Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41073515827200
+    m_Localized: Shameful Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41734395531264
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41932106633216
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42121785643008
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278230985740288
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278266280808448
+    m_Localized: Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278357079101440
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278337416204288
+    m_Localized: Mouse Y
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278302557343744
+    m_Localized: Mouse X
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

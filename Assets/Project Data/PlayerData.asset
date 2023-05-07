@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04f704ef284fbda40b626920f56f2bcf, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  pilotName: Player
+  credits: 150
+  playerAngar:
+    meches:
+    - mechID: 10001
+      modules:
+      - uid: 10002
+        moduleID: 10002
+    - mechID: 10002
+      modules: []
+    currentMechID: 10002
+  playerStorage:
+    modules: []
+  playerMissions:
+    missions:
+    - guid: -211120289
+      type: 0
+      iconID: 6
+      mapID: 1
+      completed: 1
+    - guid: -1133312713
+      type: 0
+      iconID: 9
+      mapID: 0
+      completed: 1
+    - guid: 531544207
+      type: 0
+      iconID: 13
+      mapID: 1
+      completed: 1
+    - guid: 845224224
+      type: 2
+      iconID: 8
+      mapID: 0
+      completed: 1
+    currentMission: -1133312713

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Maps_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3a4311a2e37fce246afd759bf44c23bb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 88505192448
+    m_Localized: Rail Expansion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106322595840
+    m_Localized: 'The city on which the raiders take place is located at the dead
+      end of a wide rail track.
+
+      Here, many tons of valuable materials are
+      loaded onto the wagons, which allow you to dominate the battlefield.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125981298688
+    m_Localized: Blood Metal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 187322994688
+    m_Localized: 'A scientific settlement located above a river of red-hot iron in
+      a neighboring star system.
+
+      This station is located in the sector of
+      conflict of interests of different federations.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211578654720
+    m_Localized: Death Blizzard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235507159040
+    m_Localized: 'Once it was a research base, but after using super weapons, the
+      temperature dropped to -60 degrees, and the entire base was covered with snow.
+      Now it is an abandoned town.
+
+      But there is something in it that can interest
+      anyone. This is a weapon.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

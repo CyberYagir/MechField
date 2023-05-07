@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MechesDescriptions_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 98b0995618ca58540ae6e50a86996a5c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7139889152
+    m_Localized: 'It is one of the most common robots in the sector. This robot is
+      average in many characteristics, and very cheap to manufacture. Usually, combat
+      missions are not difficult for him, but there is one drawback, he does not
+      cope well as a scout and is not capable of independent action.
+
+
+
+      This
+      is one of the most common robots. It has a short range and is very weak in
+      combat. But it is very easy to operate, so it is often used in simple operations.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43034742784
+    m_Localized: 'The Centur is a medium hardened robot with powerful weaponry.
+
+      This
+      is not just a machine, but a high-tech weapon that can inflict serious damage
+      to the enemy, while not taking damage itself.
+
+
+
+      Centur is one of the
+      best representatives of medium vehicles, which allows him to be a great addition
+      to any tactical situation.
+
+
+
+      And the presence in his arsenal of a wide
+      variety of means to defeat the enemy makes him an indispensable member of the
+      army of any faction'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

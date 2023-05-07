@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a82c3f5eb74e24bad156573b9e4ded, type: 3}
+  m_Name: Laser
+  m_EditorClassIdentifier: 
+  uid: 1298407367
+  moduleName: Light Laser
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:c27e6c341f301c84dbae00d3edc0a901
+    m_TableEntryReference:
+      m_KeyId: 219656884224
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  moduleDesc: Unknown
+  moduleCost: 10
+  modulePrefab: {fileID: 7546055917435297502, guid: 56da1f9dec8e7044fa493c7370fe20d5, type: 3}
+  type: 1
+  references:
+    version: 2
+    RefIds: []

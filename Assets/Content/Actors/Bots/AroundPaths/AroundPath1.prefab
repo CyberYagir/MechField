@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5065525595379301266
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7418723173428599741}
+  - component: {fileID: 2269600227957411564}
+  m_Layer: 0
+  m_Name: AroundPath1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7418723173428599741
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5065525595379301266}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.6556525, y: 8.023964, z: 0.009541035}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2269600227957411564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5065525595379301266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5ac92bc18f545cc84cd886ece82b4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  editorData:
+    _bezierPath:
+      points:
+      - {x: -9.219, y: 0, z: 12.42864}
+      - {x: -7.1110735, y: 0, z: 14.326269}
+      - {x: -5.5083427, y: 0, z: 17.250257}
+      - {x: -2.6724524, y: 0, z: 17.204712}
+      - {x: 6.7938066, y: 0, z: 17.052677}
+      - {x: 17.930784, y: 0, z: 10.008161}
+      - {x: 18.656816, y: 0, z: 0.5685619}
+      - {x: 19.268307, y: 0, z: -7.381822}
+      - {x: 9.077776, y: 0, z: -10.80943}
+      - {x: 3.0464811, y: 0, z: -16.025368}
+      - {x: -0.9887252, y: 0, z: -19.515064}
+      - {x: -4.1465087, y: 0, z: -25.373539}
+      - {x: -9.44586, y: 0, z: -24.758926}
+      - {x: -15.53042, y: 0, z: -24.053246}
+      - {x: -19.202806, y: 0, z: -17.53437}
+      - {x: -21.11334, y: 0, z: -11.7146}
+      - {x: -22.461134, y: 0, z: -7.609021}
+      - {x: -21.68132, y: 0, z: -3.3784196}
+      - {x: -19.938015, y: 0, z: 0.5754659}
+      - {x: -17.681448, y: 0, z: 5.693453}
+      - {x: -13.3760395, y: 0, z: 8.686327}
+      isClosed: 1
+      space: 0
+      controlMode: 3
+      autoControlLength: 0.35
+      boundsUpToDate: 0
+      bounds:
+        m_Center: {x: 1.2616136, y: 0.54719853, z: -2.224142}
+        m_Extent: {x: 3.2442577, y: 0.8264315, z: 3.3909774}
+      perAnchorNormalsAngle:
+      - 335.08722
+      - 345.02103
+      - 327.71606
+      - 320.15445
+      - 320.15445
+      - 320.15445
+      - 320.15445
+      globalNormalsAngle: 0
+      flipNormals: 0
+    vertexPathUpToDate: 1
+    vertexPathMaxAngleError: 7.5
+    vertexPathMinVertexSpacing: 0.2
+    showTransformTool: 1
+    showPathBounds: 0
+    showPerSegmentBounds: 0
+    displayAnchorPoints: 1
+    displayControlPoints: 1
+    bezierHandleScale: 1
+    globalDisplaySettingsFoldout: 1
+    keepConstantHandleSize: 1
+    showNormalsInVertexMode: 0
+    showBezierPathInVertexMode: 0
+    showDisplayOptions: 0
+    showPathOptions: 1
+    showVertexPathDisplayOptions: 0
+    showVertexPathOptions: 1
+    showNormals: 1
+    showNormalsHelpInfo: 0
+    tabIndex: 1
+  initialized: 1
