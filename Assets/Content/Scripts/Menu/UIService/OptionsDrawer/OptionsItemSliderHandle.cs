@@ -1,10 +1,8 @@
-using System;
 using System.Collections;
 using Content.Scripts.Game.InputService;
 using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.InputSystem;
 using UnityEngine.UI;
 using Zenject;
 

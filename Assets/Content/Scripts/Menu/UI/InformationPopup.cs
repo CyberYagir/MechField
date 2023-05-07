@@ -1,9 +1,6 @@
-using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.Localization;
 using UnityEngine.UI;
-using Zenject;
 
 namespace Content.Scripts.Menu.UI
 {
