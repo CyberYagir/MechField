@@ -45,6 +45,13 @@ MonoBehaviour:
     - Locale-uk-UA
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e965616b4b2c8c40bb7d6468cbc4d58
+    m_Address: Information_uk-UA
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk-UA
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 59feb32289a28f14f95af3b83463000f, type: 2}
   m_SchemaSet:

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Information_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: aa85d85d9ff152a40a27ef1565241107, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8544980992
+    m_Localized: '<b>Menu</b>
+
+      In the menu, you can choose one of the items.
+
+      You
+      can both change robots and trade or design your own robot.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2527866261504
+    m_Localized: '<b>Mech</b>
+
+      Here you can buy robots for a currency called
+      "credits".
+
+      When you select a robot, you can read its history and why
+      you should buy this particular robot.
+
+      You can transfer to different
+      robots by pressing the button in the menu of the selected robot.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2930414587904
+    m_Localized: '<b>Modules</b>
+
+      Each robot has body parts that have slots
+      for modules.
+
+      There are different types of modules W - weapons, A - armor,
+      Dash - any type.
+
+      Modules can be moved between parts of the robot''s
+      body, or moved to a warehouse.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3036576616448
+    m_Localized: '<b>Market</b>
+
+      Here you can sell modules that you no longer
+      need or are outdated. In exchange, you will receive money, used modules are
+      cheaper than new ones.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3315317477376
+    m_Localized: '<b>Settings</b>
+
+      Select the desired game language, quality,
+      and mouse sensitivity for a comfortable game.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4896310038528
+    m_Localized: '<b>Missions</b>
+
+      Each of the missions can bring victory
+      or defeat. You need to clear the sector of enemies and take the surviving modules.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

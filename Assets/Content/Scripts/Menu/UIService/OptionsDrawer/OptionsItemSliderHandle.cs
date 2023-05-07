@@ -6,12 +6,12 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
+using Zenject;
 
 namespace Content.Scripts.Menu.UIService.OptionsDrawer
 {
     public class OptionsItemSliderHandle : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     {
-        [SerializeField] private InputService inputService;
         [SerializeField] private RectTransform popup;
 
         private TMP_Text text;
@@ -19,7 +19,8 @@ namespace Content.Scripts.Menu.UIService.OptionsDrawer
         
         private bool down;
 
-        private void Awake()
+        [Inject]
+        private void Constructor(IInputService inputService)
         {
             inputService.OnFireEnd += delegate(int i)
             {
@@ -29,6 +30,7 @@ namespace Content.Scripts.Menu.UIService.OptionsDrawer
                 }
             };
         }
+        
         public void OnPointerDown(PointerEventData eventData)
         {
             PopupUpdate();
